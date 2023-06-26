@@ -1,0 +1,6 @@
+2023-06-27 02:53:12.369498 | name: hello_world | args: () | kwargs: {} | result <class 'str'>: Hello World
+2023-06-27 02:53:12.369498 | name: summator | args: (2, 2) | kwargs: {} | result <class 'int'>: 4
+2023-06-27 02:53:12.369498 | name: div | args: (6, 2) | kwargs: {} | result <class 'float'>: 3.0
+2023-06-27 02:53:12.369498 | name: summator | args: (4.3,) | kwargs: {'b': 2.2} | result <class 'float'>: 6.5
+2023-06-27 02:53:12.370488 | name: summator | args: () | kwargs: {'a': 0, 'b': 0} | result <class 'int'>: 0
+2023-06-27 02:53:12.373480 | name: project_run | args: () | kwargs: {} | result <class 'last_project.project.FlatIterator'>: <last_project.project.FlatIterator object at 0x0000012F5EF91A90>

@@ -1,0 +1,4 @@
+2023-06-27 02:53:12.371485 | name: hello_world | args: () | kwargs: {} | result <class 'str'>: Hello World
+2023-06-27 02:53:12.371485 | name: summator | args: (2, 2) | kwargs: {} | result <class 'int'>: 4
+2023-06-27 02:53:12.372495 | name: div | args: (6, 2) | kwargs: {} | result <class 'float'>: 3.0
+2023-06-27 02:53:12.372495 | name: summator | args: (4.3,) | kwargs: {'b': 2.2} | result <class 'float'>: 6.5

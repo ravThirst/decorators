@@ -1,0 +1,3 @@
+2023-06-27 02:51:20.073169 | name: project_run | args: () | kwargs: {} | result <class 'last_project.project.FlatIterator'>: <last_project.project.FlatIterator object at 0x0000023031DEF190>
+2023-06-27 02:51:47.586950 | name: project_run | args: () | kwargs: {} | result <class 'last_project.project.FlatIterator'>: <last_project.project.FlatIterator object at 0x0000028C20A7F150>
+2023-06-27 02:53:12.373480 | name: project_run | args: () | kwargs: {} | result <class 'last_project.project.FlatIterator'>: <last_project.project.FlatIterator object at 0x0000012F5EF91A90>
